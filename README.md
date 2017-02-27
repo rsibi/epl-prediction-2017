@@ -1,2 +1,3 @@
-# epl-prediction-2017
+# English Premier League Predictions
 Predicting weekly football results in EPL for the 2017 season
+
